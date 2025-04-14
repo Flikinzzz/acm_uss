@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/usshosting/public_html/test
+    - export DEPLOYPATH=/home/usshosting/public_html/misitio
     - /bin/cp -r * $DEPLOYPATH
